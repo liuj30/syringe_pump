@@ -2,5 +2,5 @@
 
 See mechanical page [here](/syringe_pump/mechanical)
 
-See mechanical page [here](/syringe_pump/Electrical)
+See electrical page [here](/syringe_pump/Electrical)
 
