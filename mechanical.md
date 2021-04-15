@@ -6,7 +6,12 @@ Item         | Quantity
 ------------ | -------------
 [Aluminum Extrusion (1ft)](https://www.mcmaster.com/47065T107/) | 1
 [Linear Bearing - 8mm](https://www.mcmaster.com/61205K75/)| 1
-
+[Stepper Motor NEMA17-0.5NM](https://www.damencnc.com/en/stepper-motor-dcnc-nema17-0-5nm/a259)| 1
+[Threaded Rod](https://www.mcmaster.com/1078N32/)| 1
+[Linear Rod](https://www.mcmaster.com/6112K44/)| 1
+[M8 Hex Nut](https://www.mcmaster.com/90592A022/)| 1
+[T Nut and Bolt](https://www.mcmaster.com/47065T139/)| 6
+[Shaft Coupler](https://www.mcmaster.com/shaft-couplings/servomotor-precision-flexible-shaft-couplings/)| 1
 
 ## Fusion 360 Model
 
