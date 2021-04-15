@@ -1,13 +1,17 @@
 # How to Build a Syringe Pump?
 
-See mechanical page [here](/syringe_pump/mechanical)
+- **[Home](/syringe_pump/index)**
+- [Mechanical](/syringe_pump/mechanical)
+- [Electrical](/syringe_pump/Electrical)
+- [Code](/syringe-pump/code)
 
-See electrical page [here](/syringe_pump/Electrical)
-
-See code page [here](/syringe_pump/code)
 
 See physical assembly page [here](/syringe_pump/physical_device)
 
 # Watch the Syringe Pump in Action
 
 [![Syringe Pump in Action](https://img.youtube.com/vi/9kMAXheGo4w/0.jpg)](https://www.youtube.com/watch?v=9kMAXheGo4w)
+
+Specifications of the syringe pump: 20 ml. 
+
+reasons why you should build and program your own pump. 
